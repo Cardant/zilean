@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.5.1](https://github.com/Cardant/zilean/compare/v3.5.0...v3.5.1) (2026-04-15)
+
+
+### 🔥 Bug Fixes
+
+* match IMDb using original titles for non-English releases ([bd5d86d](https://github.com/Cardant/zilean/commit/bd5d86d87a9ddd5063532f711b68b2fd8863f696))
+
+
+### 📦 CI Improvements
+
+* switch releases to GHCR and built-in GitHub auth ([b2549c3](https://github.com/Cardant/zilean/commit/b2549c307739ea15289777ee4b36dfbc44c0b328))
+
 ## [3.5.0](https://github.com/iPromKnight/zilean/compare/v3.4.0...v3.5.0) (2025-04-21)
 
 
